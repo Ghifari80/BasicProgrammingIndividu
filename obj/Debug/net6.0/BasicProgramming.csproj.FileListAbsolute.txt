@@ -1,0 +1,15 @@
+E:\BOOTCAMP\Fundamental\BasicProgramming\BasicProgramming\bin\Debug\net6.0\BasicProgramming.exe
+E:\BOOTCAMP\Fundamental\BasicProgramming\BasicProgramming\bin\Debug\net6.0\BasicProgramming.deps.json
+E:\BOOTCAMP\Fundamental\BasicProgramming\BasicProgramming\bin\Debug\net6.0\BasicProgramming.runtimeconfig.json
+E:\BOOTCAMP\Fundamental\BasicProgramming\BasicProgramming\bin\Debug\net6.0\BasicProgramming.dll
+E:\BOOTCAMP\Fundamental\BasicProgramming\BasicProgramming\bin\Debug\net6.0\BasicProgramming.pdb
+E:\BOOTCAMP\Fundamental\BasicProgramming\BasicProgramming\obj\Debug\net6.0\BasicProgramming.csproj.AssemblyReference.cache
+E:\BOOTCAMP\Fundamental\BasicProgramming\BasicProgramming\obj\Debug\net6.0\BasicProgramming.GeneratedMSBuildEditorConfig.editorconfig
+E:\BOOTCAMP\Fundamental\BasicProgramming\BasicProgramming\obj\Debug\net6.0\BasicProgramming.AssemblyInfoInputs.cache
+E:\BOOTCAMP\Fundamental\BasicProgramming\BasicProgramming\obj\Debug\net6.0\BasicProgramming.AssemblyInfo.cs
+E:\BOOTCAMP\Fundamental\BasicProgramming\BasicProgramming\obj\Debug\net6.0\BasicProgramming.csproj.CoreCompileInputs.cache
+E:\BOOTCAMP\Fundamental\BasicProgramming\BasicProgramming\obj\Debug\net6.0\BasicProgramming.dll
+E:\BOOTCAMP\Fundamental\BasicProgramming\BasicProgramming\obj\Debug\net6.0\refint\BasicProgramming.dll
+E:\BOOTCAMP\Fundamental\BasicProgramming\BasicProgramming\obj\Debug\net6.0\BasicProgramming.pdb
+E:\BOOTCAMP\Fundamental\BasicProgramming\BasicProgramming\obj\Debug\net6.0\BasicProgramming.genruntimeconfig.cache
+E:\BOOTCAMP\Fundamental\BasicProgramming\BasicProgramming\obj\Debug\net6.0\ref\BasicProgramming.dll
